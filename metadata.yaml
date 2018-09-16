@@ -1,0 +1,25 @@
+_repo: Die-Komposition-des-Buches-Jes-c-28-33_51705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brückner, Martin
+    alias: Bruckner, Martin
+    birthdate: 1868
+    gutenberg_agent_id: '46527'
+    url: http://www.gutenberg.org/2009/agents/46527
+description: ''
+gutenberg_issued: '2016-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51705'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Bible. Isaiah, XXVIII-XXXIII -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: Die Komposition des Buches Jes. c. 28-33.
+url: http://www.gutenberg.org/ebooks/51705
